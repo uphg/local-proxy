@@ -1,0 +1,17 @@
+{
+  "name": "local-node-env-proxy",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "preview": "node preview.js"
+  },
+  "devDependencies": {
+    "chalk": "4.1.0",
+    "connect": "3.6.6",
+    "connect-history-api-fallback": "^2.0.0",
+    "http-proxy-middleware": "^2.0.6",
+    "runjs": "4.4.2",
+    "serve-static": "^1.15.0"
+  }
+}
